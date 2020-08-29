@@ -19,6 +19,7 @@ and add their meals/snacks according to their input for calories, protein, fats,
 
 Eventually, I will be implementing a option to be able to plot the journals and food entries as well as use an equation to calculate the user's total caloric intake based off
 of height and weight. Possibly just like the mobile app myFitnessPal, convert my program to a mobile application as well.
+ - currently implemented an AreaChart graph using JFreeChart library found here https://github.com/jfree/jfreechart
 
 
 #### Give me a follow!
