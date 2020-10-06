@@ -22,7 +22,9 @@ of height and weight. Possibly just like the mobile app myFitnessPal, convert my
  - currently implemented an AreaChart graph using JFreeChart library found here https://github.com/jfree/jfreechart
  
 ![Image of Area Chart](https://github.com/mllamzon911/mllamzon911/blob/master/images/AreaChart.PNG)
- - implemented BarGraph 10/6/20
+
+ - implemented Bar Graph 10/6/20
+ 
 ![Image of Bar Graph](https://github.com/mllamzon911/mllamzon911/blob/master/images/BarGraph.PNG)
 
 
