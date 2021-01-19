@@ -1,4 +1,4 @@
-# Marvin Llamzon - @mllamzon911
+# Marvin Llamzon
 
 Hi, I'm Marvin! 
 
